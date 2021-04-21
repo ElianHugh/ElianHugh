@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi!
+
+I'm interested in R and vscode (and vscode-R).
 
 <!--
 **ElianHugh/ElianHugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
