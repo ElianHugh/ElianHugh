@@ -8,7 +8,7 @@ I mainly code in R and typescript, much of my code on github will either be pack
 #### 🌱 Some things I've developed
   - I worked on the implementation of the workspace viewer in [vscode-R](https://github.com/Ikuyadeu/vscode-R) 
   - Extended liveshare functionality in [vscode-R](https://github.com/Ikuyadeu/vscode-R)
-  - {Enumr}, a package for static enumereations in R
+  - [{Enumr}](https://github.com/ElianHugh/enumr), a package for static enumerations in R
 
 #### 📫 Socials
 - 🐦[Twitter](https://twitter.com/ElianHugh)
