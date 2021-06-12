@@ -6,7 +6,7 @@
 I mainly code in R and typescript, much of my code on github will either be package development or tinkering with vscode extensions
 
 #### 🌱 Some things I've developed
-  - I worked on the implementation of the workspace viewer in [vscode-R](https://github.com/Ikuyadeu/vscode-R) 
+  - Workspace viewer in [vscode-R](https://github.com/Ikuyadeu/vscode-R) 
   - Extended liveshare functionality in [vscode-R](https://github.com/Ikuyadeu/vscode-R)
   - [{enumr}](https://github.com/ElianHugh/enumr), a package for static enumerations in R
 
