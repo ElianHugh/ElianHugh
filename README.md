@@ -3,7 +3,7 @@
 #### I'm a forensic psychology graduate from Melbourne, with an interest in coding
 
 #### 🔭 What I do
-I mainly code in R and typescript, much of my code on github will either be package development or tinkering with vscode extensions
+I enjoy making tools that help developers out! I mainly code in R and typescript, much of my code on github will either be package development or tinkering with vscode extensions
 
 #### 🌱 Some things I've developed
   - Workspace viewer in [vscode-R](https://github.com/Ikuyadeu/vscode-R) 
