@@ -1,7 +1,6 @@
 ## Hi! 👋
 
-#### I'm a forensic psychology graduate from Melbourne, with an interest in coding
-
+#### I'm a forensic psychology graduate from Melbourne, currently studying a Masters of Data Science
 #### 🔭 What I do
 I enjoy making tools that help developers out! I mainly code in R and typescript, much of my code on github will either be package development or tinkering with vscode extensions
 
