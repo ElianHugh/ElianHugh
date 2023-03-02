@@ -1,6 +1,7 @@
-## Hi! 👋
+## Hi! 👋 I'm Elian
 
-#### I'm a forensic psychology graduate from Melbourne, currently studying a Masters of Data Science
+#### I work in data consulting and migration
+I studied forensic psychology for my undergraduate, and am currently studying a Masters of Data Science. 
 #### 🔭 What I do
 I enjoy making tools that help developers out! I mainly code in R and typescript, much of my code on github will either be package development or tinkering with vscode extensions
 
