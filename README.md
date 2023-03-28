@@ -8,7 +8,9 @@ I enjoy making tools that help developers out! I mainly code in R and typescript
 #### 🌱 Some things I've developed
   - Workspace viewer in [vscode-R](https://github.com/Ikuyadeu/vscode-R) 
   - Extended liveshare functionality in [vscode-R](https://github.com/Ikuyadeu/vscode-R)
+  - RMarkdown previews in [vscode-R](https://github.com/Ikuyadeu/vscode-R) 
   - [{enumr}](https://github.com/ElianHugh/enumr), a package for static enumerations in R
+  - [{rsx}](https://github.com/ElianHugh/rsx), a package for encapsulated Shiny modules in R
 
 #### 📫 Socials
 - 🐦[Twitter](https://twitter.com/ElianHugh)
