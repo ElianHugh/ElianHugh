@@ -11,6 +11,7 @@ I enjoy making tools that help developers out! I mainly code in R and typescript
   - Extended liveshare functionality in [vscode-R](https://github.com/Ikuyadeu/vscode-R)
   - RMarkdown previews in [vscode-R](https://github.com/Ikuyadeu/vscode-R)
   - [{quartools}](https://github.com/ElianHugh/quartools), a package for programmatic quarto element generation
+  - [{freshwater}](https://github.com/ElianHugh/freshwater), a package for server-side rendering on Plumber2
   - [{hotwater}](https://github.com/ElianHugh/hotwater), a package for auto-reloading plumber APIs
   - [{enumr}](https://github.com/ElianHugh/enumr), a package for static enumerations in R
   - [{rsx}](https://github.com/ElianHugh/rsx), a package for encapsulated Shiny modules in R
